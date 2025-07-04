@@ -1,0 +1,5 @@
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfoInputs.cache
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.sourcelink.json
