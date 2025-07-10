@@ -3,3 +3,13 @@ C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\Fo
 C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
 C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
 C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.sourcelink.json
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.exe
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.deps.json
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.runtimeconfig.json
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.dll
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.pdb
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.dll
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\refint\FormatNumbers.dll
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll

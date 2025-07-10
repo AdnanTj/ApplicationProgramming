@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DateTimeClass
 build_property.ProjectDir = C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

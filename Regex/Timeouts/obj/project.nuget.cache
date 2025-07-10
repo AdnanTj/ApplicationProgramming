@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+QpgKCxM2oPw04wld9nOhMDw2LzV5juIOafxiaj5Xtg4DNmzwT0iEwudNFlmoUg/nPPkiAdTMkeZTffD7B0nsQ==",
+  "dgSpecHash": "9GRTNALWB84=",
   "success": true,
   "projectFilePath": "C:\\Users\\Adnan\\Desktop\\baze\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

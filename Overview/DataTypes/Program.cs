@@ -12,11 +12,11 @@ bool tf = default;
 Console.WriteLine($"{a}, {b}, {tf}, {c}, {f}, {d}");
 
 // TODO: implicit type conversion
-Console.WriteLine($"{c+a}");
-Console.WriteLine($"{(char)(c+a)}");
+Console.WriteLine($"{c + a}");
+Console.WriteLine($"{(char)(c + a)}");
 
-Console.WriteLine($"{f+a}");
-Console.WriteLine($"{f+c}");
+Console.WriteLine($"{f + a}");
+Console.WriteLine($"{f + c}");
 
 // TODO: Create an instance of a struct (which is a value type)
 s s1;
@@ -37,7 +37,7 @@ StructOp(s1);
 Console.WriteLine($"{s1.a}, {s1.b}");
 
 // TODO: Create an object instance of a class (which is a reference type)
-MyClass c1 = new MyClass{a=5, b=false};
+MyClass cl = new MyClass{a = 5, b = false};
 
 // Perform an operation on the class
 void ClassOp(MyClass theClass) {

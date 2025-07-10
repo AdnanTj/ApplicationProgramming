@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1L3vX8f6Sr0hZJg94NKTMr9vZgRDvWfZxy7nkknRXKW1Dwj0lZebGCMgmJSY6rHkGnvlB1HsFW1OVKuGzt5b4g==",
+  "dgSpecHash": "7dTqAEA0VZ0=",
   "success": true,
   "projectFilePath": "C:\\Users\\Adnan\\Desktop\\baze\\Start\\Regex\\Finding\\Finding.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Adnan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
