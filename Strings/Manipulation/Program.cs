@@ -7,7 +7,7 @@ string str3 = "THIS is a STRING";
 string[] strs = {"one", "two", "three", "four"};
 
 // TODO: Length of a string 
-Console.WriteLine(str.Length);
+Console.WriteLine(str1.Length);
 
 // TODO: Access individual characters
 Console.WriteLine(str1[14]);
@@ -24,7 +24,8 @@ foreach (Char ch in str1)
 
 // TODO: String Concatenation         
 string outstr;
-outstr = String.Concat(strs)
+outstr = String.Concat(strs);
+Console.WriteLine(outstr);
 
 // TODO: Joining strings together with Join
     outstr = String.Join('-', strs);
@@ -48,4 +49,3 @@ Console.WriteLine($"{result}");
 // TODO: Replacing content
 outstr = str1.Replace("fox", "cat");
 Console.WriteLine($"{outstr}");
-    
