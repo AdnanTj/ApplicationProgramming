@@ -3,3 +3,13 @@ C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\Da
 C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
 C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
 C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.sourcelink.json
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.exe
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.deps.json
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.runtimeconfig.json
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.dll
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\bin\Debug\net6.0\DateTimeClass.pdb
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.dll
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\refint\DateTimeClass.dll
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.pdb
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\Adnan\Desktop\baze\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\ref\DateTimeClass.dll
